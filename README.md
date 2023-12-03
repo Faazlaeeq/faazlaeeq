@@ -6,15 +6,6 @@ Greetings! I'm Faaz Laeeq, a skilled developer with a passion for creating excep
 
 ## 🚀 Skills & Expertise
 
-### Web Development 💻
-
-**Frontend:** HTML, CSS, JavaScript, jQuery, AJAX, TypeScript, React.js, Next.js  
-**UI Libraries:** Tailwind CSS, Chakra UI, ShadCn UI  
-**CMS Platforms:** WordPress, Shopify, Wix  
-**Backend:** PHP, Node.js, Express.js  
-**Headless CMS:** tRPC, Prisma, Drizzle, NextAuth, Clerk  
-**APIs:** RESTful APIs  
-**Tech Stacks:** T3 Stack (Web), MERN (Web)
 
 ### Flutter Mobile App Development 📱
 
@@ -28,6 +19,17 @@ Greetings! I'm Faaz Laeeq, a skilled developer with a passion for creating excep
 **Notifications:** Push Notifications  
 **In-App Purchases** | **Device Integration:** Permissions, Offline Support  
 **Architecture:** MVVM (Flutter)
+
+
+### Web Development 💻
+
+**Frontend:** HTML, CSS, JavaScript, jQuery, AJAX, TypeScript, React.js, Next.js  
+**UI Libraries:** Tailwind CSS, Chakra UI, ShadCn UI  
+**CMS Platforms:** WordPress, Shopify, Wix  
+**Backend:** PHP, Node.js, Express.js  
+**Headless CMS:** tRPC, Prisma, Drizzle, NextAuth, Clerk  
+**APIs:** RESTful APIs  
+**Tech Stacks:** T3 Stack (Web), MERN (Web)
 
 ### Databases & ORM 🗄️
 
